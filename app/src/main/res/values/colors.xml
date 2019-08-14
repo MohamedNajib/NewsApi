@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF5722</color>
+
+    <color name="bg_card_light_black">#484A4E</color>
+    <color name="bg_card_divider">#2B2E34</color>
+    <color name="bg_card_light">#62626D</color>
+
+    <color name="d_bg_card_light1">#FA5C5CB4</color>
+    <color name="bg_card_light1">#FA9A9ABE</color>
+
+    <color name="cyan">#4CDEC8</color>
+    <color name="teal">#018B7F</color>
+
+    <color name="dialogBackground">#60050505</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorTextSubtitle">#4e4e4e</color>
+    <color name="colorTextTitle">#262626</color>
+
+    <color name="shimmer">#90807B7B</color>
+</resources>
